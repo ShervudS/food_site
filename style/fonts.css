@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'pfdintextcomppro';
+	src: url('../fonts/pfdintextcomppro-bold.eot');
+	src: local('☺'), url('../fonts/pfdintextcomppro-bold.woff') format('woff'), url('../fonts/pfdintextcomppro-bold.ttf') format('truetype'), url('../fonts/pfdintextcomppro-bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'pfdintextcomppro';
+	src: url('../fonts/pfdintextcomppro-regular.eot');
+	src: local('☺'), url('../fonts/pfdintextcomppro-regular.woff') format('woff'), url('../fonts/pfdintextcomppro-regular.ttf') format('truetype'), url('../fonts/pfdintextcomppro-regular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
